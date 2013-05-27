@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "_default": {
+            "link": "snitch"
+        }, 
+        "snitch": {
+            "applicationId": "your app id", 
+            "masterKey": "your master key"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.7"
+    }
+}

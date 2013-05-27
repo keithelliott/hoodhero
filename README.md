@@ -1,4 +1,4 @@
 hoodhero
 ========
 
-Startup Weekend Delaware 2013
+Delaware Startup Weekend 2013 project
